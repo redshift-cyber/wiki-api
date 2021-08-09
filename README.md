@@ -14,7 +14,6 @@ Install all the dependencies:
 
 ```
 node install
-
 ```
 
 Now all the dependencies are installed the next step is to get the mongo db server running.
