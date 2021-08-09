@@ -34,4 +34,10 @@ node app.js
 
 ****Make sure you do not quit the mongo db server or your app will not run****
 
+open up your Api client and make a post request. then go to body and chose form-encoded(it could be xxx-form-encoded in postman). Then enter the title and the content and hit send. you should see something like this:
+
+***this is an important step as you just cloned the project there are no articles in the database right now****
+
+<img src="https://github.com/iron-coder12/wiki-api/blob/master/Capture.PNG?raw=true">
+
 
