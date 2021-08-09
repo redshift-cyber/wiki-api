@@ -7,5 +7,20 @@ This is a very simple RESTful API made using javascript, mongodb and mongoose. I
 
 git clone the project:
 ```
-git clone
+git clone https://github.com/iron-coder12/wiki-api.git
+```
+
+Install all the dependencies:
+
+```
+node install
+
+```
+
+Now all the dependencies are installed the next step is to get the mongo db server running.
+
+open a new terminal window (or if you are using hyper terminal ****hyper.is**** you can open a new tab) and enter this commman:
+
+```
+mongod
 ```
