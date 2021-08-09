@@ -23,3 +23,13 @@ open a new terminal window (or if you are using hyper terminal ****hyper.is**** 
 ```
 mongod
 ```
+
+the next step is you must have a API client (through which we will send GET requests and POST requests). You can use postman's api which you can get from https://www.postman.com/ 
+For now I am going to be using thunder client (you can get thunder client by installing the ****thunder clien**** vs code extension).
+
+now that you have opened your api client in your terminal start the app using 
+```
+node app.js
+```
+
+****Make sure you do not quit the mongo db server or your app will not run****
