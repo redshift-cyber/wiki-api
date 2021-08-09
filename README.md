@@ -3,4 +3,4 @@ This is a very simple RESTful API made using javascript, mongodb and mongoose. I
 
 # How to get started with the api:
 
-** you need to have node js, mongodb and git installed **
+**** you need to have node js, mongodb and git installed ****
