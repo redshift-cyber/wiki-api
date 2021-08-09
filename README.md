@@ -42,4 +42,13 @@ open up your Api client and make a post request. then go to body and chose form-
 
 now if you will switch back to the GET request you will see your article show up:
 
+<img src="https://github.com/iron-coder12/wiki-api/blob/master/l.PNG?raw=true">
+
+If you want to delete an article then switch to DELETE from GET hit send which will delete all the articles.
+
+Like this way you can add as many articles as you want you can use the PATCH or PUT to edit the articles.
+
+If you would like to cintribute and make this API better feel free to create issues, fork this project and pull requests to make this API better
+
+<a HREF="https://discord.gg/HeySEM4w8U">JOIN MY DISCORD SERVER</a>
 
