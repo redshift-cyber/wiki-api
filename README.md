@@ -40,4 +40,6 @@ open up your Api client and make a post request. then go to body and chose form-
 
 <img src="https://github.com/iron-coder12/wiki-api/blob/master/Capture.PNG?raw=true">
 
+now if you will switch back to the GET request you will see your article show up:
+
 
